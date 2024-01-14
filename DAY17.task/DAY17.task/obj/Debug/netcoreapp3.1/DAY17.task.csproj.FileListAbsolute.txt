@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.exe
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.deps.json
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.runtimeconfig.json
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.dll
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\bin\Debug\netcoreapp3.1\DAY17.task.pdb
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.AssemblyInfo.cs
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.dll
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.pdb
+C:\Users\Comp\source\repos\DAY17.task\DAY17.task\obj\Debug\netcoreapp3.1\DAY17.task.genruntimeconfig.cache
